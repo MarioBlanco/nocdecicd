@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          TESTING THIS NEW EXCITING CICD PIPELINE OMG
+          TESTING THIS NEW EXCITING CICD PIPELINE
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
